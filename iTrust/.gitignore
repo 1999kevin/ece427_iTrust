@@ -1,0 +1,12 @@
+/build/classes/
+/build/
+/target/
+/WebRoot/WEB-INF/lib/*
+!/WebRoot/WEB-INF/lib/cewolf-1.1.jar
+/.idea/*
+iTrust/.idea/*
+.idea/*
+iTrust/WebRoot/META-INF/context.xml
+iTrust/WebRoot/image/obsimage/*
+.vs/*
+iTrust/.vs/*
